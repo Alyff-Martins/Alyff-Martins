@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá! Eu sou <span style="color:#8B5CF6">Alyff Martins</span>
+# Olá! Eu sou <span style="color:#8B5CF6">Alyff Martinss</span>
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+###  Estudante de Análise e Desenvolvimento de Sistemas
 
 Desenvolvedor em formação  
 Construindo projetos e evoluindo todos os dias  
