@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Alyff-Martins/Alyff-Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou <span style="color:#8B5CF6">Alyff Martins</span>
 
-Here are some ideas to get you started:
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor em formação  
+🚀 Construindo projetos e evoluindo todos os dias  
+🎯 Foco atual: Front-end • Lógica • Python
+
+</div>
+
+<div align="center">
+
+<img src="3d-abstract-network-communications-background-with-plexus-design.jpg" width="100%">
+
+</div>
+
+## 🛠️ Tecnologias que utilizo
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+
+</p>
