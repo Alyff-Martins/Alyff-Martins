@@ -11,7 +11,7 @@ Foco atual: Front-end • Lógica • Python
 </div>
 
 
-## 🛠️ Tecnologias que utilizo
+##  Tecnologias que utilizo
 
 <p align="center">
 
