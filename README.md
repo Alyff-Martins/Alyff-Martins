@@ -5,7 +5,7 @@
 ###  Estudante de Análise e Desenvolvimento de Sistemas
 
 Desenvolvedor em formação  
-o Construindo projetos e evoluindo todos os dias  
+Construindo projetos e evoluindo todos os dias  
 Foco atual: Front-end • Lógica • Python
 
 </div>
