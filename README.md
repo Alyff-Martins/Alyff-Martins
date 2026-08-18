@@ -4,17 +4,14 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Desenvolvedor em formação  
-🚀 Construindo projetos e evoluindo todos os dias  
-🎯 Foco atual: Front-end • Lógica • Python
+Desenvolvedor em formação  
+Construindo projetos e evoluindo todos os dias  
+Foco atual: Front-end • Lógica • Python
 
 </div>
-
-<div align="center">
 
 <img src="3d-abstract-network-communications-background-with-plexus-design.jpg" width="100%">
 
-</div>
 
 ## 🛠️ Tecnologias que utilizo
 
