@@ -107,26 +107,6 @@ Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
 ---
 
-##  Minha jornada
-
-<div align="center">
-
-```text
- ADS
-   ↓
- Aprendendo programação
-   ↓
- Criando projetos
-   ↓
- Evoluindo minhas habilidades
-   ↓
- Primeira oportunidade em tecnologia
-   ↓
- Full Stack Developer
-```
-
-</div>
-
 ---
 
 ##  Conecte-se comigo:
