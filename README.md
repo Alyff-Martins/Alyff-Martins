@@ -9,7 +9,6 @@
 ###  Olá! Eu sou Alyff Martins
 
  Estudante de **Análise e Desenvolvimento de Sistemas**  
- Desenvolvedor em formação  
  Construindo projetos e evoluindo todos os dias  
  Foco atual: **Front-end • Lógica • Python**
 
@@ -85,15 +84,7 @@ Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
 ---
 
-##  Estatísticas do GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyff-Martins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyff-Martins&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
