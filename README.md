@@ -6,32 +6,32 @@
 
 <div align="center">
 
-### 👋 Olá! Eu sou Alyff Martins
+###  Olá! Eu sou Alyff Martins
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Desenvolvedor em formação  
-🚀 Construindo projetos e evoluindo todos os dias  
-🎯 Foco atual: **Front-end • Lógica • Python**
+ Estudante de **Análise e Desenvolvimento de Sistemas**  
+ Desenvolvedor em formação  
+ Construindo projetos e evoluindo todos os dias  
+ Foco atual: **Front-end • Lógica • Python**
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim:
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na programação através de projetos práticos.
 
 Atualmente estou aprimorando meus conhecimentos em desenvolvimento web, lógica de programação e Python.
 
-🎯 **Objetivo:** conquistar minha primeira oportunidade na área de tecnologia e continuar evoluindo como desenvolvedor.
+ **Objetivo:** conquistar minha primeira oportunidade na área de tecnologia e continuar evoluindo como desenvolvedor.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
 
 </div>
 
@@ -48,7 +48,7 @@ Atualmente estou aprimorando meus conhecimentos em desenvolvimento web, lógica 
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando:
 
 ```javascript
 const alyff = {
@@ -63,15 +63,15 @@ const alyff = {
         "Python"
     ],
 
-    desafio: "Transformar ideias em código 🚀"
+    desafio: "Transformar ideias em código"
 };
 ```
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque:
 
-### 🧮 Calculadora Web
+###  Calculadora Web
 
 Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
@@ -85,7 +85,7 @@ Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
 ---
 
-## 📈 Minhas contribuições
+##  Minhas contribuições
 
 <div align="center">
 
@@ -107,29 +107,29 @@ Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
 ---
 
-## 🎯 Minha jornada
+##  Minha jornada
 
 <div align="center">
 
 ```text
-🎓 ADS
+ ADS
    ↓
-💻 Aprendendo programação
+ Aprendendo programação
    ↓
-🛠️ Criando projetos
+ Criando projetos
    ↓
-📚 Evoluindo minhas habilidades
+ Evoluindo minhas habilidades
    ↓
-🚀 Primeira oportunidade em tecnologia
+ Primeira oportunidade em tecnologia
    ↓
-💜 Full Stack Developer
+ Full Stack Developer
 ```
 
 </div>
 
 ---
 
-## 📫 Conecte-se comigo
+##  Conecte-se comigo:
 
 <div align="center">
 
@@ -151,9 +151,9 @@ Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
 <div align="center">
 
-### 💜 "Código é mais que lógica. É transformar ideias em soluções."
+###  "Código é mais que lógica. É transformar ideias em soluções."
 
-🚀 **Obrigado por visitar meu perfil!**
+ **Obrigado por visitar meu perfil!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D1117&height=120&section=footer" width="100%"/>
 
