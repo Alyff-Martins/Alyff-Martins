@@ -66,11 +66,9 @@ const alyff = {
 };
 ```
 
----
+## Projetos em destaque:
 
-##  Projetos em destaque:
-
-###  Calculadora Web
+### Calculadora Web
 
 Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
@@ -84,7 +82,19 @@ Minha primeira aplicação desenvolvida utilizando **HTML, CSS e JavaScript**.
 
 ---
 
+### Minhas Tarefas
 
+Aplicação web para organização e gerenciamento de tarefas com **prioridades, prazos, filtros, edição e acompanhamento de progresso**.
+
+**Tecnologias utilizadas:**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 **[Ver código](https://github.com/Alyff-Martins/minhas-tarefas)**
+
+🌐 **[Acessar projeto online](https://alyff-martins.github.io/minhas-tarefas/)**
 
 ---
 
